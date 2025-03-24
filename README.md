@@ -3,7 +3,6 @@ Demo Video:
 
 # VaniConnect: Sign Language to Voice Transcriber
 
-![VaniConnect Banner](https://your-image-url.com)
 
 ## 📌 Introduction
 VaniConnect is an innovative solution designed to bridge communication gaps between individuals who use sign language and those who do not understand it proficiently. It translates real-time sign language gestures into spoken language using **computer vision and machine learning**.
