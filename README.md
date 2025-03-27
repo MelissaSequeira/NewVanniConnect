@@ -48,8 +48,10 @@ VaniConnect is an innovative solution designed to bridge communication gaps betw
    ```bash
    python main.py
    ```.
-   🏆 Achievements
 
+
+
+🏆 Achievements
 📄 Published in the 1st International Conference of Emerging Trends in Computer Science and Engineering (ICETCSE-2025).
 
 📢 Recognized for its contribution to accessibility and inclusivity.
