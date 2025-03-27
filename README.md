@@ -48,6 +48,20 @@ VaniConnect is an innovative solution designed to bridge communication gaps betw
    ```bash
    python main.py
    ```.
+   🏆 Achievements
+
+📄 Published in the 1st International Conference of Emerging Trends in Computer Science and Engineering (ICETCSE-2025).
+
+📢 Recognized for its contribution to accessibility and inclusivity.
+📚 References
+
+[1] J. Kunjumon and R. K. Megalingam, "Hand Gesture Recognition System For Translating Indian Sign Language Into Text And Speech", ICSSIT, 2019.
+
+[2] Kanwal Yousaf et al., "A Novel Technique for Speech Recognition and Visualization", Hindawi Wireless Communications, 2018.
+
+🏅 Acknowledgments
+
+We would like to thank Dr. S.M. Khot (Principal, FCRIT Vashi) for his support, Mrs. Supriya Joshi for her guidance, and our families for their encouragement.
 
 ## ⭐ Show Your Support
 If you like this project, **⭐ star** the repository and share it with others!
